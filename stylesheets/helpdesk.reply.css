@@ -1,0 +1,51 @@
+.helpdesk {
+		position:relative;
+	}
+	
+	.alignLeft {
+		float:left;
+		margin-right:20px;
+	}
+	
+	#new-reply-page { 
+	}
+	
+	.ticket {
+		overflow:hidden;
+	}
+	
+	textarea {
+		margin-bottom:10px;
+		width:100%;
+	}
+	
+	.issue {
+		margin-bottom:20px;
+	}
+	
+	#newReply {
+		margin-bottom:20px;
+	}
+	
+	#sidebar {
+		float:right;
+	}
+	
+	.oldschool {
+		overflow:hidden;
+	}
+	
+	.oldschool .date {
+		float:right;
+		color:gray;
+	}
+
+
+	.floatRight {
+  	float:right;
+  }
+
+	#assignment_list {
+		margin-bottom:10px;
+	}
+	

@@ -1,0 +1,109 @@
+/*
+Theme Name: Helpdesk
+Theme URI: 
+Description: A ticketing software for managing problems built as a WordPress theme making it the easiest to use ticketing software in the world. Full email and user management included.
+Author: Ankur Taxali
+Author URI: https://github.com/oldmill1/
+Version: 1.0
+Tags: helpdesk, tickets, informational, dashboard
+*/
+
+body { 
+	padding-top:20px;
+}
+
+form#newTicket input#submit {
+	margin-top:20px;
+}
+
+.reply-thread ul {
+ list-style:none;
+}
+
+.floatRight {
+float:right;
+}
+
+.reply-thread {
+	box-shadow: 0 0 0 1px #f0f0f0;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.innerPadding{
+	padding:4px;
+}
+
+.panel {
+	background:#ECF0F1;
+}
+
+.user.subheader{
+	padding-top:20px;
+}
+
+a {text-decoration: none !important;}
+
+.btn a {
+	color:white;
+	text-align:center;
+	display:block;
+	text-decoration: none;
+	font-family: 'Lato'; 
+}
+
+.feed-place-inner {
+	padding-top:20px;
+}
+
+#inbox {
+	margin-bottom:20px;
+}
+
+footer {
+	margin-top:40px !important;
+}
+
+footer h6.subheader {
+	text-transform: lowercase;
+	text-align:center;
+}
+
+.new-item {
+	background:#ECF0F1; 
+	display:block; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
